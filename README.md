@@ -1,6 +1,6 @@
 ### 👋👋 Hello World, I'm Calvin 👋👋
 
- <img align="right" alt="GIF" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
 Here are some ideas to get you started:
 
