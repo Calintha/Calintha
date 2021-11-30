@@ -4,9 +4,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my course
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on my first book
+- 🌱 I’m currently learning Symfony and React Native
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about softs skills
+- 💬 Ask me about anything
 - 📫 How to reach me: [Instagram][https://www.instagram.com/gutsfanaccount__/]
-- ⚡ Fun fact: I'm a great fan of Berserk
+- ⚡ Fun fact: I'm a great fan of Berserk and I speak 4 languages ( English, French, Mandarin, Thaï)
+
+### You can talk to me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/calvin-i-668678174/]
+
+<br />
